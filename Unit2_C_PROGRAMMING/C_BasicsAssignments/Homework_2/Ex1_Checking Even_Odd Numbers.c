@@ -1,7 +1,7 @@
 /*
  ============================================================================
- Name        : Checking.c
- Author      : 
+ Name        : Checking Even/Odd numbers.c
+ Author      : Murtadha Alrahal
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
